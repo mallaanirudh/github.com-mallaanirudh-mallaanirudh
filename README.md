@@ -1,5 +1,5 @@
-#ABOUT ME
-Hey, I am Anirudh Malla!
+
+Hey, I am Anirudh!
 
 🚀 **Machine Learning, Quantum Computing & Web Dev Enthusiast**
 
