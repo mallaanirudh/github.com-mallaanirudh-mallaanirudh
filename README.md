@@ -1,4 +1,4 @@
-# github.com-mallaanirudh-mallaanirudh
+#ABOUT ME
 Hey, I am Anirudh Malla!
 
 🚀 **Machine Learning, Quantum Computing & Web Dev Enthusiast**
